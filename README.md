@@ -43,8 +43,8 @@ The project employs a CNN-based architecture for feature extraction and classifi
 
 2. Install dependencies:
    ```bash
-  Copy code
-  pip install -r requirements.txt
+   Copy code
+   pip install -r requirements.txt
 
 3. Run the detection script:
   ```bash
